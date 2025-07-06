@@ -1,7 +1,7 @@
-import "./App.css";
+import "./index.css";
 
 function App() {
-  return <>Electron + React Boilerplate</>;
+  return <div className="text-3xl font-bold underline">Hello world!</div>;
 }
 
 export default App;
