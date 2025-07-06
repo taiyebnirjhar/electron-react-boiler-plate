@@ -1,7 +1,8 @@
+import PomodoroTimer from "./_components/pomodoro-timer";
 import "./index.css";
 
 function App() {
-  return <div className="text-3xl font-bold underline">Hello world!</div>;
+  return <PomodoroTimer />;
 }
 
 export default App;
